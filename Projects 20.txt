@@ -1,0 +1,7 @@
+Dashboard : https://lookerstudio.google.com/reporting/9be25f99-446b-4ef6-ac10-04ed3ea74aad
+
+Dataset : https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/data
+
+Python Code : https://github.com/bahruprojects/Proyek-DA-20-Social-Media-Sentiments---Behaviors-Analysis/blob/main/Projects_20_Social_Media_Sentiments_%26_Behaviors_Analysis.ipynb
+
+SQL Code : https://github.com/bahruprojects/Proyek-DA-20-Social-Media-Sentiments---Behaviors-Analysis/blob/main/Projects_20_Social_Media_Sentiments_%26_Behaviors_Analysis.SQL
