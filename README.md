@@ -6,4 +6,4 @@ Google Spreadsheet (Data Cleaning & EDA), Looker Studio (Data Visualizations & D
 ### Dataset: 
 [Link](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/data).
 ### Description:
-This dashboard contains Sentiment Analysis from the 3 largest platforms, with 670 users spread across 33 countries. The analysis shows that the "positive" sentiment produces the highest output, followed by "Joy", and the "Excitement" sentiment.
+<p align="justify"> This dashboard contains Sentiment Analysis from the 3 largest platforms, with 670 users spread across 33 countries. The analysis shows that the "positive" sentiment produces the highest output, followed by "Joy", and the "Excitement" sentiment. </p>
